@@ -7,7 +7,7 @@ This text editor application serves as an example of a progressive web app (PWA)
 To install the app on your local machine simply click the install button after opening the application. 
 
 ## Usage
-To use the application, you can simply open it after installing it on your local machine. Use this [link]() to visit the deployed application.
+To use the application, you can simply open it after installing it on your local machine. Use this [link](https://boiling-taiga-72215-a8267123833a.herokuapp.com/) to visit the deployed application.
 
 ## Credits
 N/A
